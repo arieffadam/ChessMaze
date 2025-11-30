@@ -1,4 +1,4 @@
-# ♟️ Knight's Dungeon (Chess Maze)
+# ♟️ Chess Maze (Knight's Dungeon)
 
 A minimalist 2D puzzle game built natively for Android. This project gamifies chess mechanics (Rook and Knight movements) into a logic puzzle adventure.
 
@@ -29,7 +29,7 @@ The goal is simple: Navigate the board, avoid walls, and capture the Star to adv
 ## 🚀 How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/REPO_NAME.git](https://github.com/YOUR_USERNAME/REPO_NAME.git)
+    git clone [https://github.com/arieffadam/chessmaze.git](https://github.com/arieffadam/chessmaze.git)
     ```
 2.  Open **Android Studio**.
 3.  Select **Open an Existing Project** and navigate to the folder.
